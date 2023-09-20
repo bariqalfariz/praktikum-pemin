@@ -13,22 +13,22 @@ Praktikum ini dilakukan pada 13 September 2023. Pada repository ini berisikan so
     1. Melakukan koneksi ke MongoDB menggunakan connection string ``` mongodb://localhost:27017``` secara lokal. <br/>
     ![Screenshot connection MongoDB Compass](../Screenshot/praktikum2/1.png)
 
-    2. Membuat Database bookstore dengan melakukan klik "Create Database"
+    1. Membuat Database bookstore dengan melakukan klik "Create Database"
     ![Screenshot create database](../Screenshot/praktikum2/2.png)
 
-    3. Melakukan insert buku pertama dengan melakukan klik “Add Data”, pilih “Insert Document”, isi dengan data yang diinginkan dan klik “Insert”
+    1. Melakukan insert buku pertama dengan melakukan klik “Add Data”, pilih “Insert Document”, isi dengan data yang diinginkan dan klik “Insert”
     ![Screenshot Insert Document](../Screenshot/praktikum2/3.png)
           ![Screenshot Add Data](../Screenshot/praktikum2/4.png)
 
-    4. Melakukan insert buku kedua dengan cara yang sama
+    1. Melakukan insert buku kedua dengan cara yang sama
     ![Screenshot Insert buku kedua](../Screenshot/praktikum2/5.png)
 
-    5. Melakukan pencarian buku dengan author “Osamu Dazai” dengan mengisi filter yang diinginkan dan klik “Find”
+    1. Melakukan pencarian buku dengan author “Osamu Dazai” dengan mengisi filter yang diinginkan dan klik “Find”
     ![Screenshot Pencarian buku](../Screenshot/praktikum2/6.png)
 
-    6. Melakukan perubahan summary pada buku “No Longer Human” menjadi “Buku yang bagus (<NAMA>,<NIM>) dengan melakukan klik “Edit Document” (berlambang pensil), mengisi nilai summary yang baru, dan melakukan klik “Update”
+    1. Melakukan perubahan summary pada buku “No Longer Human” menjadi “Buku yang bagus (<NAMA>,<NIM>) dengan melakukan klik “Edit Document” (berlambang pensil), mengisi nilai summary yang baru, dan melakukan klik “Update”
     ![Screenshot perubahan summary](../Screenshot/praktikum2/7.png)
-    7. Melakukan penghapusan pada buku “I Am a Cat” dengan melakukan klik “Remove Document” (berlambang tong sampah) dan melakukan klik “Delete”
+    1. Melakukan penghapusan pada buku “I Am a Cat” dengan melakukan klik “Remove Document” (berlambang tong sampah) dan melakukan klik “Delete”
     ![Screenshot delete](../Screenshot/praktikum2/8.png)
     ![Screenshot delete](../Screenshot/praktikum2/9.png)
 
