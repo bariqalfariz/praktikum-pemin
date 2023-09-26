@@ -8,6 +8,8 @@ Mahasiswa diharapkan dapat :
 1. Melakukan migration ke database
 
 ## Langkah Percobaan
+Melanjutkan project yang sudah dikerjakan pada Praktikum 1 yaitu salah satunya instalasi Lumen  
+
 1. GET 
     Untuk menambahkan endpoint dengan method GET pada aplikasi kita, kita dapat mengunjungi file ``web.php`` pada folder routes. Kemudian tambahkan baris ini pada akhir file
     
@@ -21,7 +23,7 @@ Mahasiswa diharapkan dapat :
 
     ![Screenshot node -v](../Screenshot/praktikum4/3.png)
 
-        Setelah aplikasi berhasil dijalankan, kita dapat membuka browser dengan url, ``http://localhost:8000/get`` , path yang akan kita akses akan berbentuk demikian, http://{BASE_URL}{PATH} , jika BASE_URL kita adalah localhost:8000 dan PATH kita adalah /get , maka url akan berbentuk seperti diatas.
+    <p align = "justify"> Setelah aplikasi berhasil dijalankan, kita dapat membuka browser dengan url, ``http://localhost:8000/get`` , path yang akan kita akses akan berbentuk demikian, http://{BASE_URL}{PATH} , jika BASE_URL kita adalah localhost:8000 dan PATH kita adalah /get , maka url akan berbentuk seperti diatas. </p>
 
 2. POST, PUT, PATCH, DELETE, dan OPTIONS
     Sama halnya saat menambahkan method GET, kita dapat menambahkan methode POST, PUT, PATCH, DELETE, dan OPTIONS pada file web.php dengan code seperti ini,
@@ -45,7 +47,7 @@ Mahasiswa diharapkan dapat :
 
     ![Screenshot node -v](../Screenshot/praktikum4/4.png)
 
-    Setelah selesai menambahkan route untuk method POST, PUT, PATCH, DELETE, dan OPTIONS, kita dapat menjalankan server seperti pada saat percobaan GET. Setelah server berhasil menyala, kita dapat membuka aplikasi Postman atau Insomnia atau kita juga dapat menggunakan PowerShell (Windows) / Terminal (Linux atau Mac) untuk melakukan request ke server. Namun, pada percobaan kali ini kita akan menggunakan extensions pada VSCode yaitu Thunder Client.
+    <p align = "justify">Setelah selesai menambahkan route untuk method POST, PUT, PATCH, DELETE, dan OPTIONS, kita dapat menjalankan server seperti pada saat percobaan GET. Setelah server berhasil menyala, kita dapat membuka aplikasi Postman atau Insomnia atau kita juga dapat menggunakan PowerShell (Windows) / Terminal (Linux atau Mac) untuk melakukan request ke server. Namun, pada percobaan kali ini kita akan menggunakan extensions pada VSCode yaitu Thunder Client.</p>
 
     a. Kita dapat menginstall ekstensi dengan membuka panel extensions lalu mencari thunder client
 
@@ -182,5 +184,5 @@ Mahasiswa diharapkan dapat :
         php artisan migrate
 
     ![Screenshot node -v](../Screenshot/praktikum4/18.png)
-    
+
     ![Screenshot node -v](../Screenshot/praktikum4/19.png)    
