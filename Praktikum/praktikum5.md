@@ -1,5 +1,5 @@
 # :ledger: Praktikum Dynamic Route dan Middleware
-Praktikum ini dilakukan pada 4 Oktober 2023. Pada repository ini berisikan source code dan screenshot penerapan dari praktikum modul 5 mengenai Dynamic Route dan Middleware
+Praktikum ini dilakukan pada 4 Oktober 2023. Pada repository ini berisikan source code dan screenshot penerapan dari praktikum modul 5 mengenai Dynamic Route dan Middlewaree
 
 ## Tujuan
 Setelah mengikuti praktikum ini, mahasiswa diharapkan dapat:
